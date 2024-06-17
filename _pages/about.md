@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joshua You's homepage"
+title: "Jiaxue (Joshua) You's homepage"
 author_profile: true
 redirect_from: 
   - /about/
