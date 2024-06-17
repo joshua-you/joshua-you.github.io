@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S.,   2009 - 2013, Taiyuan University of Technology, (Project 211 in CN).
+* M.S.,   2013 - 2014, Northwestern Polytechnical University (Project 985 in CN).
+* Ph.D.,   2014 - 2018, NPU, CN. Supervisor: Prof. Zhijun Wang & Jincheng Wang.
+* 2016 - 2017, University of Cambridge, UK. Supervisor: Prof. Grae Worster.
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Post doc, 2018-2019, NPU, CN. Advisor: Prof. Li Shang. 
+* Post doc, 2019-2022, SNNU, CN. Advisor: Prof. Shengzhong Frank Liu.
+* Post doc, 2023-till now, CityU, HK. Advisor: Prof. Alex K.Y. Jen.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -44,7 +36,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% [include archive-single-cv.html](https://scholar.google.co.uk/citations?user=w1h9d7sAAAAJ&hl=zh-CN) %}
   {% endfor %}</ul>
   
 Talks
@@ -61,4 +53,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Nature Science Foundation of China (No. 51901190), Host.
+* China Postdoctoral Science Foundation (2020M673336), Host.
+* China Postdoctoral Science Foundation (2019M653728), Host.
