@@ -36,7 +36,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% [include archive-single-cv.html](https://scholar.google.co.uk/citations?user=w1h9d7sAAAAJ&hl=zh-CN) %}
+    {% [include archive-single-cv.html]%}
   {% endfor %}</ul>
   
 Talks
