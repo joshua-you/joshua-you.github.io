@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Joshua (Jiaxue) You, I am Jiaxue You, a term staff in City University of Hong Kong.
+I am Jiaxue (Joshua) You, a term staff in City University of Hong Kong.
 Here is my google scholar 
 https://scholar.google.com/citations?user=w1h9d7sAAAAJ&hl=zh-CN&oi=ao 
+B.S.,   2009 - 2013, Taiyuan University of Technology, (Project 211 in CN).
+M.S.,   2013 - 2014, Northwestern Polytechnical University (Project 985 in CN).
+Ph.D.,   2014 - 2018, NPU, CN. Supervisor: Prof. Zhijun Wang & Jincheng Wang.
+2016 - 2017, University of Cambridge, UK. Supervisor: Prof. Grae Worster.
 
 News
 ======
