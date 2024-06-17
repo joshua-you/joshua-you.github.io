@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Joshua (Jiaxue) You, a post-doc in City University of Hong Kong. My research interests include...
+I am Joshua (Jiaxue) You, I am Jiaxue You, a term staff in City University of Hong Kong.
+Here is my google scholar 
+https://scholar.google.com/citations?user=w1h9d7sAAAAJ&hl=zh-CN&oi=ao 
 
 News
 ======
